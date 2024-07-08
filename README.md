@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @csafarli
-- 👀 I’m interested in ML
-- 🌱 I’m currently learning AI
+- 🌱 IT Analyst
 - 📫 How to reach me javadsafarli7@gmail.com
 
 <!---
